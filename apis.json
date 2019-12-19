@@ -1,0 +1,38 @@
+{
+    "name": "The Online News Archive",
+    "description": "The Online News Archive is a comprehensive and constantly-growing database of crawled news articles that anyone can access on-demand.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/online-news-archive.jpeg",
+    "tags": [
+        "general data",
+        "have api",
+        "historical data api",
+        "news"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/the-online-news-archive\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "The Online News Archive",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/online-news-archive.jpeg",
+            "humanURL": "https:\/\/onlinenewsarchive.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/the-online-news-archive-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "https:\/\/onlinenewsarchive.com"
+        }
+    ]
+}
